@@ -1,11 +1,11 @@
-package _9999
+package _714220038
 
 import (
 	"fmt"
 	"testing"
 
-	"github.com/indrariksa/cobapakcage/model"
-	"github.com/indrariksa/cobapakcage/module"
+	"github.com/AditWiBu69/nukami/model"
+	"github.com/AditWiBu69/nukami/module"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )
 

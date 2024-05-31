@@ -1,6 +1,6 @@
-module github.com/indrariksa/cobapakcage
+module github.com/AditWiBu69/nukami
 
-go 1.21.3
+go 1.22.3
 
 require (
 	github.com/aiteung/atdb v0.1.7
